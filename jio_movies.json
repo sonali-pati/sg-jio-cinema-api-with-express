@@ -1,0 +1,215 @@
+  
+  [
+    {
+        "name":"Inception",
+        "language":"English",
+        "genre": [
+            "Sci-Fi",
+            "Thriller"
+        ],
+        "featured":true,
+        "cast":[
+            "Leonardo Dicaprio",
+            "Joseph Gordon-Levitt",
+            "Elliot Page"
+        ],
+        "imageUrl":"https://example.com/images/inception.jpg",
+        "imdb":8.8,
+        "runtime":148,
+        "description":"A skill thief given a chance at redemption if he can successfull",
+        "country":"USA",
+        "id":1
+    },
+    {
+      "name":"Parasite",
+      "language":"Korean",
+      "genere":[
+        "Drama",
+        "Thriller"
+      ],
+      "featured":true,
+      "cast":[
+        "song kang-ho",
+        "choi woo-shik",
+        "park so-dam"
+      ],
+      "imageUrl":"https://example.com/images/parasite.jpg",
+      "imdb":8.6,
+      "runtime":132,
+      "description":"A poor family schemes to become employed by a wealthy household",
+      "country":"South korea",
+      "id":2
+    },
+    {
+       "name":"Spirited Away",
+      "language":"Japanese",
+      "genere":[
+        "Animation",
+        "Adventure",
+        "Fantasy"
+      ],
+      "featured":false,
+      "cast":[
+        "Rumi Hiiragi",
+        "Miyu Irino",
+        "Mari Natsuki"
+      ],
+      "imageUrl":"https://example.com/images/spirited-away.jpg",
+      "imdb":8.6,
+      "runtime":125,
+      "description":"Chihiro, a sullen young girl,wander into amysterious world where ",
+      "country":"Japan",
+      "id":3
+    },
+    {
+      "name":"The Dark Knight",
+      "language":"English",
+      "genere":[
+        "Action",
+        "Crime",
+        ""
+      ],
+      "featured":true,
+      "cast":[
+        "Christian Bale",
+        "Heath Ledger",
+        "Aaron Eckhart"
+      ],
+      "imageUrl":"https://example.com/images/dark-knight.jpg",
+      "imdb":9.0,
+      "runtime":152,
+      "description":"Batman faces his tuoghest challenge yet as he fights against the",
+      "country":"USA",
+      "id":4
+    },
+    {
+      "name":"La La Land",
+      "language":"English",
+      "genere":[
+        "Drama",
+        "Nusical",
+        "Romance"
+      ],
+      "featured":false,
+      "cast":[
+        "Rayan Gosling",
+        "Emma Stone",
+        "John Legend"
+      ],
+      "imageUrl":"https://example.com/images/la-la-land.jpg",
+      "imdb":8.0,
+      "runtime":128,
+      "description":"In Los Angels an aspiring actress and deddicated jazz musician",
+      "country":"USA",
+      "id":5
+    },
+    {
+      "name":"Coco",
+      "language":"English",
+      "genere":[
+        "Animation",
+        "Adventure",
+        "Family"
+      ],
+      "featured":false,
+      "cast":[
+        "nthony Gonzalez",
+        "Gael\u00eda Barnal",
+        "Banjamin Bratt"
+      ],
+      "imageUrl":"https://example.com/images/coco.jpg",
+      "imdb":8.4,
+      "runtime":105,
+      "description":"Despite his family's generation -old ban on music young Miguel",
+      "country":"USA",
+      "id":6
+    },
+    {
+      "name":"3 Idiots",
+      "language":"Hindi",
+      "genere":[
+        "Commedy",
+        "Drama"
+        
+      ],
+      "featured":false,
+      "cast":[
+        "Amir Khan",
+        "R Madhavan",
+        "Sharman Joshi"
+      ],
+      "imageUrl":"https://example.com/images/3idiots.jpg",
+      "imdb":8.4,
+      "runtime":170,
+      "description":"Two Friends embark on a journey to find their long-last companion",
+      "country":"India",
+      "id":7
+    },
+    {
+      "name":"The Godfather",
+      "language":"English",
+      "genere":[
+        "Crime",
+        "Drama"
+        
+      ],
+      "featured":true,
+      "cast":[
+        "Marlon Brando",
+        "Al pacino",
+        "James Caan"
+      ],
+      "imageUrl":"https://example.com/images/godfather.jpg",
+      "imdb":9.2,
+      "runtime":175,
+      "description":"The patriarch ofan organized crime dynasty in New York City",
+      "country":"USA",
+      "id":8
+    },
+    {
+      "name":"Your Name",
+      "language":"Japanese",
+      "genere":[
+        "Animation",
+        "Drama",
+        "Fantasy"
+        
+      ],
+      "featured":false,
+      "cast":[
+        "Ryunosuke kamiki",
+        "Mone kamishiraishi"
+        
+      ],
+      "imageUrl":"https://example.com/images/yourname.jpg",
+      "imdb":8.4,
+      "runtime":106,
+      "description":"The teenagers mysteriously swap bodies and must find a way to meet",
+      "country":"Japan",
+      "id":9
+    },
+    {
+      "name":"Gladiator",
+      "language":"English",
+      "genere":[
+        "Action",
+        "Adventure",
+        "Drama"
+        
+      ],
+      "featured":true,
+      "cast":[
+        "Russell Crowe",
+        "Joaquin Phoenix",
+        "Connie Nielsen"
+        
+      ],
+      "imageUrl":"https://example.com/images/gladiator.jpg",
+      "imdb":8.5,
+      "runtime":155,
+      "description":"A betrayed Roman general fights for his freedom and honor in ",
+      "country":"Usa",
+      "id":10
+    }
+    
+  ]
